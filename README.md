@@ -4,7 +4,7 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by SHAPEAI . T
 Here's the link for you to watch the sessions as well
 
 I got to have hands on experience on:
-https://www.youtube.com/playlist?list=PL7zl8TDRnbulLetcbkthT0p_IzwgRAYbu
+https://www.youtube.com/c/ShapeAI/playlists
 JavaScript
 HTML
 React.js
